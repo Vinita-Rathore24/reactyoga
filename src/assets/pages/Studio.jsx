@@ -28,7 +28,7 @@ function Studio(){
     <section className="section">
       <div className="container">
         <div className="photo-split">
-          <div className="photo-panel reveal">
+          <div className="photo-panel">
             <img src="assets/img/yoga-meditation.jpg" alt="Hovara student in a long-held forward fold — bolster, blanket, low warm light." />
           </div>
           <div className="copy">
@@ -52,25 +52,25 @@ function Studio(){
         </div>
 
         <div className="instructors">
-          <article className="instructor reveal">
+          <article className="instructor">
             <div className="photo"><img src="assets/img/instructor-01.jpg" alt="Marisol Tavares — co-founder, Slow Restore and Yin teacher." /></div>
             <h5>Marisol Tavares</h5>
             <span className="specialty">Co-founder · Slow Restore · Yin</span>
             <p>Trained in Mysore (Sharath Jois lineage) and at the Krishnamacharya Yoga Mandiram. 15 years on the mat, 11 of them at Hovara. Sits on the IYTA Portugal teacher review panel.</p>
           </article>
-          <article className="instructor reveal">
+          <article className="instructor">
             <div className="photo"><img src="assets/img/instructor-02.jpg" alt="Aisha Robinson — co-founder, vinyasa and pranayama teacher." /></div>
             <h5>Aisha Robinson</h5>
             <span className="specialty">Co-founder · Vinyasa · Pranayama</span>
             <p>Trained at Yoga Yoga (Austin) and the Krishnamacharya Yoga Mandiram. Joined Hovara in 2017; has lived in Lisbon since 2019. Author of <em>Slow Vinyasa</em> (Park Books, 2024).</p>
           </article>
-          <article className="instructor reveal">
+          <article className="instructor">
             <div className="photo"><img src="assets/img/instructor-03.jpg" alt="Sara Lindgren — Ashtanga Mysore lead." /></div>
             <h5>Sara Lindgren</h5>
             <span className="specialty">Ashtanga (Mysore)</span>
             <p>Authorized Level 2 teacher (KPJAYI Mysore). Runs the 06:30 Mysore room from Tuesday to Saturday. Travels to Mysore for two months every January.</p>
           </article>
-          <article className="instructor reveal">
+          <article className="instructor">
             <div className="photo"><img src="assets/img/instructor-04.jpg" alt="Daniel Park — co-founder, sound bath and meditation teacher." /></div>
             <h5>Daniel Park</h5>
             <span className="specialty">Co-founder · Sound Bath · Meditation</span>
@@ -82,7 +82,7 @@ function Studio(){
 
     <section>
       <div className="container">
-        <div className="photo-panel reveal">
+        <div className="photo-panel">
           <img src="assets/img/yoga-studio.jpg" alt="Hovara studio interior — three mats arranged in a half-circle, blonde wood floor, low afternoon light." />
         </div>
       </div>
@@ -147,7 +147,7 @@ function Studio(){
 
      <section className="section--tight">
       <div className="container">
-        <div className="stat-strip reveal">
+        <div className="stat-strip">
           <div className="stat"><span className="value">11</span><span className="label">Years practising · since 2014</span></div>
           <div className="stat"><span className="value">12</span><span className="label">Senior teachers</span></div>
           <div className="stat"><span className="value">42</span><span className="label">Classes every week</span></div>
